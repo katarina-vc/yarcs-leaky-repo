@@ -1,5 +1,6 @@
 # YARC's Leaky Repo 
 (Credit to Dylan Katz (Plazmaz's) open-source secret detection benchmark tool)
+
 See original open-source tool here: leaky-repo: https://github.com/Plazmaz/leaky-repo/tree/master
 
 # FAQ
@@ -10,7 +11,6 @@ By the time you get here this repo may already be clean.
 
 ------------------------------------------------------------
 ## All below documentation is from the open-source secret detection tool by Plazmaz (Dylan Katz)
-See original repo here: https://github.com/Plazmaz/leaky-repo/tree/master
 
 ## Table of contents
 * [FAQ](#FAQ)
