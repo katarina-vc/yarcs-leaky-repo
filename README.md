@@ -1,9 +1,10 @@
 # YARC's Leaky Repo 
-(Credit to Dylan Katz (Plazmaz's) leaky-repo: https://github.com/Plazmaz/leaky-repo/tree/master)
+(Credit to Dylan Katz (Plazmaz's) open-source secret detection benchmark tool)
+See original open-source tool here: leaky-repo: https://github.com/Plazmaz/leaky-repo/tree/master
 
 # FAQ
 ## What is this?
-This in particular is being used for a demonstration of YARC's repo-sanitizing abilities.
+"yarcs-leaky-repo" in particular is being used for a demonstration of YARC's repo-sanitizing abilities.
 
 By the time you get here this repo may already be clean. 
 
