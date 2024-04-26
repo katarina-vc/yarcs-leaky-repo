@@ -1,4 +1,15 @@
-# Leaky Repo 🚿
+# YARC's Leaky Repo 
+(Credit to Dylan Katz (Plazmaz's) leaky-repo: https://github.com/Plazmaz/leaky-repo/tree/master)
+
+# FAQ
+## What is this?
+This in particular is being used for a demonstration of YARC's repo-sanitizing abilities.
+
+By the time you get here this repo may already be clean. 
+
+------------------------------------------------------------
+## All below documentation is from the open-source secret detection tool by Plazmaz (Dylan Katz)
+See original repo here: https://github.com/Plazmaz/leaky-repo/tree/master
 
 ## Table of contents
 * [FAQ](#FAQ)
@@ -9,6 +20,10 @@
 
 # FAQ
 ## What is this?
+This in particular is being used for a demonstration of YARC's repo-sanitizing abilities.
+
+By the time you get here this repo may already be clean. 
+
 This is a repo full of mistakes. I will include several of the secrets I've seen commonly leaking from real projects. It will be useful for testing scanning tools such as [github-dorks](https://github.com/techgaun/github-dorks) and [truffleHog](https://github.com/dxa4481/truffleHog).
 
 ## Where did you get these?
