@@ -1,6 +1,1 @@
-# This is not a secrets file but must be in the root directory.
-# 2010
-*.txt -crlf
-
-# 2020
-*.txt text eol=lf
+clean
